@@ -1,4 +1,4 @@
-# angular2-wizard
+# FORKED UPDATE for angular2-wizard
 [![npm version](https://badge.fury.io/js/angular2-wizard.svg)](https://badge.fury.io/js/angular2-wizard)
 [![Build Status](https://travis-ci.org/maiyaporn/angular2-wizard.svg?branch=master)](https://travis-ci.org/maiyaporn/angular2-wizard)
 [![Code Climate](https://codeclimate.com/github/maiyaporn/angular2-wizard/badges/gpa.svg)](https://codeclimate.com/github/maiyaporn/angular2-wizard)
